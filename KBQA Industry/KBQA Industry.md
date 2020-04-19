@@ -52,7 +52,7 @@
 
 
 
-![img](.\pictures\KBQA-example.JPEG)
+![img](pictures\KBQA-example.JPEG)
 
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline">图1.知识图谱示例</center> 
 ### 1.2 数据集
@@ -63,7 +63,7 @@
 
 ##### 1.2.0.1 CCKS 2019
 
-[知识库](https://pan.baidu.com/share/init?surl=MOv9PCTcALVIiodUP4bQ2Q)密码(huc8)，[问答](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes/tree/master/data)
+[知识库 密码(huc8)](https://pan.baidu.com/share/init?surl=MOv9PCTcALVIiodUP4bQ2Q)，[问答](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes/tree/master/data)
 
 ##### 1.2.0.2 NLPCC 2018
 
@@ -179,19 +179,19 @@
 
 #### 3.1.1 CCKS论文集&笔记
 
-+ [2019](./CCKS+NLPCC papers&notes/CCKS/CCKS2019)
++ [2019](CCKS+NLPCC papers&notes/CCKS/CCKS2019)
 
-+ [2018](./CCKS+NLPCC papers&notes/CCKS/CCKS2018)
++ [2018](CCKS+NLPCC papers&notes/CCKS/CCKS2018)
 
 #### 3.1.2 NLPCC论文集&笔记
 
-+ [2018](./CCKS+NLPCC papers&notes/NLPCC/NLPCC2018)
-+ [2017](./CCKS+NLPCC papers&notes/NLPCC/NLPCC2017)
++ [2018](CCKS+NLPCC papers&notes/NLPCC/NLPCC2018)
++ [2017](CCKS+NLPCC papers&notes/NLPCC/NLPCC2017)
 
 ### 3.2 知识图谱Talk Slides
 
-+ [CCKS slides](.\CCKS+NLPCC slides\CCKS)
-+ [NLPCC slides](.\CCKS+NLPCC slides\NLPCC)
++ [CCKS slides](CCKS+NLPCC slides/CCKS)
++ [NLPCC slides](CCKS+NLPCC slides/NLPCC)
 
 ### 3.3 企业知识图谱产品说明
 
