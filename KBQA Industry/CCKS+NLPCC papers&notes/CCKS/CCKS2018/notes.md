@@ -7,7 +7,7 @@
 
 ### 系统
 
-![1587283455669](pictures/1587283455669.png)
+![1587283455669](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2018/pictures/1587283455669.png)
 
 #### Text Similarity Search Model
 
@@ -48,7 +48,7 @@
 
 #### Graph computation model
 
-![1587299540999](pictures/1587299540999.png)
+![1587299540999](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2018/pictures/1587299540999.png)
 
 + Pre-solution space：找实体两跳(正反)内的子图
 + Structural Feature
@@ -71,7 +71,7 @@
 
 ### 系统
 
-![1587280336078](pictures/1587280336078.png)
+![1587280336078](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2018/pictures/1587280336078.png)
 
 ### Entity Mention Recognition
 
@@ -106,7 +106,7 @@ weighted linear score：$Score_{topicentity}=w_1*F_1+w_2*F_2+w_3*F_3+w_4*F_4+w_5
 
 + word embedding + 10 features above
 
-![1587281670040](pictures/1587281670040.png)
+![1587281670040](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2018/pictures/1587281670040.png)
 
 + 网络：BiMPM+Fea
   + Word Representation Layer: 将每个word映射到100维

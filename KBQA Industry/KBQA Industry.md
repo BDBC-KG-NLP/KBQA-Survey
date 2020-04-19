@@ -52,9 +52,10 @@
 
 
 
-![img](https://github.com/BDBC-KG-NLP/KBQA-Survey/blob/master/KBQA%20Industry/pictures/KBQA-example.JPEG)
+![img](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/pictures/KBQA-example.JPEG)
 
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">图1.知识图谱示例</center> 
+
+
 ### 1.2 数据集
 
 没有固定的工业界数据集，图谱参照领域内的app数据进行的爬取整理，问题多来自企业客服或是app收集的问题，这部分来源未知。一下列出一些代表性的工业知识图谱。

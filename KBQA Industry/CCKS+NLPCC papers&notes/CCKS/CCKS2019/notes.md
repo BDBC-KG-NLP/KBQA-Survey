@@ -8,7 +8,7 @@
 
 ### 系统
 
-![1586349819279](.\pictures\1586349819279.png)
+![1586349819279](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2019/pictures/1586349819279.png)
 
 #### 指称识别
 
@@ -60,11 +60,11 @@ F1：73.075
 
 ### 模型
 
-![1586395493614](.\pictures\1586395493614.png)
+![1586395493614](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2019/pictures/1586395493614.png)
 
 #### path similarity matching
 
-![1586396085552](.\pictures\1586396085552.png)
+![1586396085552](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2019/pictures/1586396085552.png)
 
 - Bert sequence labeling + string matching to do ner
 - bert-trained classifier + rules -》 multi-limit questions, one-hop questions, chain questions and difficult-to-categorize questions
@@ -74,7 +74,7 @@ F1：73.075
 
 #### relationship similarity matching
 
-![1586397182767](.\pictures\1586397182767.png)
+![1586397182767](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2019/pictures/1586397182767.png)
 
 - classify the question (one hop / multi hop), 类似ner 标注 entity
 - entity linking based on a set of features(没细说), get top1 entity
@@ -91,7 +91,7 @@ F1：73.075
 
 - 将问题分割为多个部分，参照word/phrases in the kb + existing word segmentation tools especially for shorter words
 - clarify question structure
-- ![1586398092065](.\pictures\1586398092065.png)
+- ![1586398092065](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2019/pictures/1586398092065.png)
 
 
 
@@ -130,7 +130,7 @@ F1：73.075
 
 - simple-complex question classifier - bert classifier
 - sparql generation: 5 structures
-- ![1586389192332](.\pictures\1586389192332.png)
+- ![1586389192332](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2019/pictures/1586389192332.png)
 
 ## DUTIR 中文开放域知识库问答评测报告
 
@@ -180,9 +180,9 @@ F1：73.075
 
 ### Knowledge Representation
 
-![1586439182270](.\pictures\1586439182270.png)
+![1586439182270](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2019/pictures/1586439182270.png)
 
-![1586439376518](.\pictures\1586439376518.png)
+![1586439376518](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2019/pictures/1586439376518.png)
 
 CVT（Compound Value Type）is obtained from Freebase.
 
@@ -194,7 +194,7 @@ CVT（Compound Value Type）is obtained from Freebase.
 
 ### KBQA Approach
 
-![1586442328957](.\pictures\1586442328957.png)
+![1586442328957](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2019/pictures/1586442328957.png)
 
 - 通过先生成基本查询图的形式(e, p, v)，然后entity-linking通过规则匹配方式做，然后通过tailored CNN映射到property上。
 - 在 v 是CVT node 的时候，通过rule-based 和 similarity-based 字符串匹配来将它链接到正确的v上（通过打分排序）
