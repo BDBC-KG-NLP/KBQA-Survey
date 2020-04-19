@@ -52,7 +52,7 @@
 
 
 
-![img](pictures\KBQA-example.JPEG)
+![img](https://raw.githubusercontent.com/BDBC-KG-NLP/KBQA-Survey/master/KBQA%20Industry/pictures/KBQA-example.JPEG)
 
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline">图1.知识图谱示例</center> 
 ### 1.2 数据集
