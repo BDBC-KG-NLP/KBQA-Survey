@@ -180,19 +180,19 @@
 
 #### 3.1.1 CCKS论文集&笔记
 
-+ [2019](CCKS+NLPCC papers&notes/CCKS/CCKS2019)
++ [2019](https://github.com/BDBC-KG-NLP/KBQA-Survey/tree/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2019)
 
-+ [2018](CCKS+NLPCC papers&notes/CCKS/CCKS2018)
++ [2018](https://github.com/BDBC-KG-NLP/KBQA-Survey/tree/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/CCKS/CCKS2018)
 
 #### 3.1.2 NLPCC论文集&笔记
 
-+ [2018](CCKS+NLPCC papers&notes/NLPCC/NLPCC2018)
-+ [2017](CCKS+NLPCC papers&notes/NLPCC/NLPCC2017)
++ [2018](https://github.com/BDBC-KG-NLP/KBQA-Survey/tree/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/NLPCC/NLPCC2018)
++ [2017](https://github.com/BDBC-KG-NLP/KBQA-Survey/tree/master/KBQA%20Industry/CCKS%2BNLPCC%20papers%26notes/NLPCC/NLPCC2017)
 
 ### 3.2 知识图谱Talk Slides
 
-+ [CCKS slides](CCKS+NLPCC slides/CCKS)
-+ [NLPCC slides](CCKS+NLPCC slides/NLPCC)
++ [CCKS slides](https://github.com/BDBC-KG-NLP/KBQA-Survey/tree/master/KBQA%20Industry/CCKS%2BNLPCC%20slides/CCKS)
++ [NLPCC slides](https://github.com/BDBC-KG-NLP/KBQA-Survey/tree/master/KBQA%20Industry/CCKS%2BNLPCC%20slides/NLPCC)
 
 ### 3.3 企业知识图谱产品说明
 
